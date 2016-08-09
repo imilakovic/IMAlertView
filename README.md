@@ -15,7 +15,11 @@ Please feel free to try the IMAlertViewDemo project in Xcode. It demonstrates a 
 
 ## Installation
 
-Simply drag & drop the IMAlertView folder to your project.
+### CocoaPods
+If you are using [CocoaPods](http://www.cocoapods.org), simply add `pod 'IMAlertView'` to your Podfile.
+
+### Drag & Drop
+Simply drag & drop the `IMAlertView` folder to your project.
 
 ## Usage
 
